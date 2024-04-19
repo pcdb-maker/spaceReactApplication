@@ -11,12 +11,12 @@ const Footer = () => {
           {/* first column */}
           <div className=" py-8 px-4 ">
             <h1 className="sm:text-3xl text-xl font-bold sm:text-left text-justify mb-3">
-              Be Ready To Grow
+            Stay in the loop...
             </h1>
             <p className="text-gray-400">
-              Get exclusive{" "}
-              <span className=" text-white font-bold "> best update</span>{" "}
-              straight to your inbox.{" "}
+              Get {" "}
+              <span className=" text-white font-bold "> exculsive </span>{" "}
+              updates and marketing information straight to your inbox!{" "}
             </p>
             <br />
             <div className="flex items-center h-10">
@@ -71,11 +71,11 @@ const Footer = () => {
                   </div>
                   <div className="flex items-center gap-3 mt-3">
                     <MdMessage />
-                    <p>abc@gmail.com</p>
+                    <p>example@contact.com</p>
                   </div>
                   <div className="flex items-center gap-3 mt-3">
                     <MdCall />
-                    <p>+00 123456789</p>
+                    <p>+61 123456789</p>
                   </div>
                 </div>
               </div>
@@ -85,7 +85,7 @@ const Footer = () => {
         <div className="hidden sm:block">
           <div className="flex justify-between items-center text-center py-6 border-t-2 border-gray-300/40">
             <span className="text-sm text-gray-400">
-              @copyright 2024 Travery || Chloe
+            <div>Completed for non-commerical purposes in 2024 || Chloe O</div>
             </span>
             <div className="flex items-center justify-center gap-4 mb-4">
               <a href="#">

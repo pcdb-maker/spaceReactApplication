@@ -27,7 +27,7 @@ const Rapidscat = () => {
                 data-aos-delay="500"
                 className="uppercase text-5xl"
               >
-                Musk
+                Aldrin
               </h1>
               <p data-aos="fade-up" data-aos-delay="700">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos

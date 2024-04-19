@@ -3,7 +3,7 @@ import React from "react";
 const Footer = () => {
   return (
     <div className="bg-primary text-white text-center py-4">
-      <div>copyright &copy; 2024 || MUSK-Space</div>
+      <div>Completed for non-commerical purposes in 2024|| Chloe O</div>
     </div>
   );
 };
