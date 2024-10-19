@@ -57,7 +57,3 @@ We welcome contributions to improve the Space React Application. To contribute:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-For more information or inquiries, please contact the project owner at [your-email@example.com].
